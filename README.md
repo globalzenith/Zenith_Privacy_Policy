@@ -1,8 +1,8 @@
 # Privacy Policy for Zenith Bot
 
-( Last Updated: [04/08/2024] )
+- ( Last Updated: [04/08/2024] )
 
-"Welcome to Zenith, your multipurpose bot offering features like moderation, automod, security, games, giveaways, and more. Your privacy is important to us, and this policy explains how we handle your data"
+- "Welcome to Zenith, your multipurpose bot offering features like moderation, automod, security, games, giveaways, and more. Your privacy is important to us, and this policy explains how we handle your data"
 
 - Bot Invite Link: https://discord.com/oauth2/authorize?client_id=1261284891958706268&permissions=8&integration_type=0&scope=bot+applications.commands 
 
