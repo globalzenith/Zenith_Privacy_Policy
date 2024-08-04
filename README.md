@@ -4,6 +4,8 @@
 
 "Welcome to Zenith, your multipurpose bot offering features like moderation, automod, security, games, giveaways, and more. Your privacy is important to us, and this policy explains how we handle your data"
 
+# Bot Invite Link: https://discord.com/oauth2/authorize?client_id=1261284891958706268&permissions=8&integration_type=0&scope=bot+applications.commands
+
 # Information We Collect
 User Data: We collect basic data like User ID, username, and server details to operate the bot effectively.
 Command Data: When you interact with Zenith, we process the commands you issue.
