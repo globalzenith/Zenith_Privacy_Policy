@@ -28,4 +28,4 @@
 
 - By using Zenith, you agree to this Privacy Policy.
 - This concise policy ensures clarity while protecting your data and rights.
-- Regard: zenith_development 205157243128250379
+- Discord Userid: zenith_development 205157243128250379
